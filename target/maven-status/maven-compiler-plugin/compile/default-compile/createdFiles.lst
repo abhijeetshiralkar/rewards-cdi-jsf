@@ -1,0 +1,8 @@
+org/jbpm/examples/util/RewardsUserGroupCallback.class
+org/jbpm/examples/web/TaskBean.class
+org/jbpm/examples/util/RewardsApplicationScopedProducer$1.class
+org/jbpm/examples/util/RewardsIdentityProvider.class
+org/jbpm/examples/util/StartupBean.class
+org/jbpm/examples/util/WebUtil.class
+org/jbpm/examples/web/ProcessBean.class
+org/jbpm/examples/util/RewardsApplicationScopedProducer.class
